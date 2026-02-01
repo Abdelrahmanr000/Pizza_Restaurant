@@ -18,9 +18,9 @@ The analysis combines **Excel-based dashboards** with **SQL-driven analytics** t
 
 ### 📁 Data
 - **Data.xlsx**
-  - Sheet 1: Raw transactional sales data  
-  - Sheet 2: Pivot Tables used for analysis  
-  - Sheet 3: Interactive Excel Dashboard  
+  - Sheet 1 (pizza_data): Raw transactional sales data  
+  - Sheet 2 (pivot_tables): Pivot Tables used for analysis  
+  - Sheet 3 (Dashboard): Interactive Excel Dashboard  
 
 ---
 
