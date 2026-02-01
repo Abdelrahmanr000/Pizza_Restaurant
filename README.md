@@ -9,7 +9,7 @@ The analysis combines **Excel-based dashboards** with **SQL-driven analytics** t
 
 ## 📊 Dashboard Overview
 
-<img src="dashboard/Dashboard.png" width="900">
+<img src="Dashboard/Dashboard.png" width="900">
 
 
 ---
