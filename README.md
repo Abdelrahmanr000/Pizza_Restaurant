@@ -84,7 +84,7 @@ All SQL scripts are organized to reflect real-world analytical workflows:
 
 ## 🛠️ Tools & Technologies
 - Microsoft Excel (Data Cleaning, Pivot Tables, Dashboards)
-- SSMS (KPI Calculation, Time-Series Analysis, Product Benchmarking)
+- SQL (KPI Calculation, Time-Series Analysis, Product Benchmarking)
 - Business & Data Analysis Techniques
 
 ---
